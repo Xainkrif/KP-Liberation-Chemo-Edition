@@ -1,6 +1,8 @@
 ![KP Liberation](https://www.killahpotatoes.de/images/arma/liberation.png)
 
-# KP Liberation for Arma 3
+# KP Liberation - Chemo Edition for Arma 3
+
+Edited by Xainkrif, SystematicLoop
 
 [![CI](https://github.com/KillahPotatoes/KP-Liberation/workflows/CI/badge.svg)](https://github.com/KillahPotatoes/KP-Liberation/actions?query=workflow%3ACI)
 [![license](https://img.shields.io/github/license/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/blob/master/LICENSE.md)
